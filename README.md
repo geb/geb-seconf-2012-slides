@@ -26,4 +26,6 @@ The tooling used to build the slides is something I put together and is an exper
 * [PegDown](https://github.com/sirthias/pegdown "sirthias/pegdown · GitHub")
 * [JSoup](http://jsoup.org/ "jsoup Java HTML Parser, with best of DOM, CSS, and jquery")
 
+[Gradle](http://www.gradle.org/ "Gradle - Build Automation Evolved") is used to build the final HTML from [Markdown](http://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown") and JavaScript input.
+
 This will eventually be packaged up into a more user friendly, standalone, toolchain.
