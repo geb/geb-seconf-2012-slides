@@ -2,7 +2,7 @@
 
 This repository contains the build for the slide deck used for this talk.
 
-The slides are HTML and JavaScript. You can download a pre-built HTML version from «».
+The slides are HTML and JavaScript. You can download a pre-built zip from [here](https://github.com/downloads/geb/geb-seconf-2012-slides/geb-seconf-20120-slides.zip).
 
 ## How to build the slides
 
